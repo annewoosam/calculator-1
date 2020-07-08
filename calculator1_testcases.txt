@@ -1,0 +1,10 @@
+#vagrant $ python3 calculator.py with test for functions
++ 1 2    # 3.0
+- 10 5   # 5.0
+* 2 3    # 6.0
+7 2      # 3.5
+square 2 # 4.0
+cube 3	 #27.0
+pow 2 5  #32.0
+mod 10 3 # 1.0
++ 100 2  #102.0
